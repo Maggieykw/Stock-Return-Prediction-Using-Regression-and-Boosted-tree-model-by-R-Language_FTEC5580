@@ -5,9 +5,9 @@ We are interested in predicting monthly returns of stocks using linear regres- s
 <img width="833" alt="Screenshot 2022-04-14 at 6 53 44 PM" src="https://user-images.githubusercontent.com/30870497/163377335-3ae24d33-7e1b-4f33-9f96-049e1e5e86f8.png">
 
 ## Tasks
-(1) Perform ordinary least squares (OLS) regression with all 49 covariates (with and without 10-fold CV)
-(2) Perform regression with LASSO, PLS and boosted trees by the 10-fold CV
-(3) Determine which covariates are significant for predicting the return of the next month
+1. Perform ordinary least squares (OLS) regression with all 49 covariates (with and without 10-fold CV)
+2. Perform regression with LASSO, PLS and boosted trees by the 10-fold CV
+3. Determine which covariates are significant for predicting the return of the next month
 
 For the modelling and the model performance, please refer to the file 'Predictive Model.ipynb'
 
