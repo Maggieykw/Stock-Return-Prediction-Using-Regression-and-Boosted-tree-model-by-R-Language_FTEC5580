@@ -9,9 +9,11 @@ We are interested in predicting monthly returns of stocks using linear regres- s
 (2) Perform regression with LASSO, PLS and boosted trees by the 10-fold CV
 (3) Determine which covariates are significant for predicting the return of the next month
 
+For the modelling and the model performance, please refer to the file 'Predictive Model.ipynb'
+
 Remark: The 49 covariates are on different scales. You need to standardize them before using them in any regression and the boosted tree model. Standardization means dividing a covariate by its sample standard deviation.
 
-## Data
+## Dataset
 Data is collected from CRSP, CompuStat and WRDS Beta Suite. All three databases can be accessed through Wharton Research Data Services (WRDS). For each stock, there are 120 observations and thus the observations of all 30 stocks combined is 3600.
 
 The data contains the following types information:
