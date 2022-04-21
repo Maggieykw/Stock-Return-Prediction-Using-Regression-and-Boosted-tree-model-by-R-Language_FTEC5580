@@ -1,6 +1,6 @@
 # Stock-Return-Prediction-Using-Regression-and-Boosted-tree-model_FTEC5580
 
-We are interested in predicting monthly returns of stocks using linear regres- sion models and boosted trees. Consider the following formulation:
+We are interested in predicting monthly returns of stocks using linear regression models and boosted trees. Consider the following formulation:
 
 <img width="833" alt="Screenshot 2022-04-14 at 6 53 44 PM" src="https://user-images.githubusercontent.com/30870497/163377335-3ae24d33-7e1b-4f33-9f96-049e1e5e86f8.png">
 
